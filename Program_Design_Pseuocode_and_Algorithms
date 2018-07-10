@@ -1,0 +1,98 @@
+Objective
+Define the problem by constructing an algorithm using pseudocode
+Create an IPO diagram showing input, output, and processing steps
+What control structures (sequence, selection and repetition) are required?
+What variables are required?
+Show a check of your solution with test data for at least two valid test cases
+
+1. Create a basic application
+Your 6 year old client needs an application that will receive an integer from the user banging on the keyboard, add 5 to it, double it, subtract 7 from it, and display the result to the screen.
+Algorithm: result = x + 5 * 2 - 7
+Pseudocode:
+1. Prompt user for numerical input
+2. Get 'x", our numerical input
+3. Apply algorithm specified (x+5*2-7)
+4. Output result
+
+B) Create an IPO diagramshowing input, output, and processing steps
+Input: numberInput, value from the user
+Process: apply the algorithm (result = numberInput+5*2-7)
+Output: result
+
+C) What control structures (sequence, slection and repetition) are required?
+Sequence
+
+D) What variables are required?
+input variable (numberInput) and output variable (result)
+
+E) Show a check of your solution with test data for at least two valid test
+cases
+NumberInput = 5
+result = (5 + %) * 2 - 7 = 13
+
+numberInput = 10
+result = (10 + 10) * 2 - 7 = 33
+
+2. Add three numbers and print the total
+His little sister now wants a program to read three numbers, add them together and print their total.
+Algorythem: result = result = x + y + z / result = num1 + num2 + num3
+Psuedocode:
+1. Prompt user for number intput (3)
+2. Get x, y, z
+3. Appply the alorithum d up the 3 numbers)
+4. Output result
+A + B + C = D 
+
+B) Create an IPO diagramshowing input, output, and processing steps
+Input: Numerical values (x, y, z)
+Process: x, y, z
+Output: numerical value result
+
+C) What control structures (sequence, slection and repetition) are required?
+Sequence - order
+
+D) What variables are required?
+firstNumInput
+secondNumImnut
+thirdNumInput
+result
+
+E) Show a check of your solution with test data for at least two valid test
+cases
+NumberInput = 5
+result = (5 + %) * 2 - 7 = 13
+
+numberInput = 10
+result = (10 + 10) * 2 - 7 = 33
+
+
+
+3. Find the average score
+A program is needed to prompt the user operator for ten exam scores, calculate the average score and display the result to the screen. The average score is calculated as the sum of the scores divided by the number of scores.
+Algorithm: average score = total sum of scores / 10
+
+Pseudocode:
+1 Prompt user for a score input, do this for 10 times
+2. Add up al the 10 scores to get the sum
+3. Divid the sume score by 10
+4. Output result
+
+Creat an IPO diagram showing input, output, and prcessing steps:
+Input:
+Process:
+Output:
+
+What control structures (sequence, sleecion and repitions) are required?
+Sequencerepitition => keep asking user for input
+
+What varaibles are required?
+Show as chek of ytour solution with test data for at least two valid test cases
+
+4. How much water runs off the roof
+How much water runs off a roof in a rain storm?
+
+To calculate the runoff from any given rainfall: Take the dimensions of the footprint of the roof and convert them to inches. (So, a 50' x 20' roof is 600" x 240"). Multiply the roof dimensions by the number of inches of rainfall. In this example, 600" x 240" x 1" = 144,000 cubic inches of water. Divide that result by 231 to get the number of gallons (because 1 gallon = 231 cubic inches). (144,000/231 = 623.38).
+
+
+
+Write the pseudocode for the above problem. If you use the numbers provided in the example then the correct pseudocode will calculate the same result.
